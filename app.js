@@ -41,7 +41,7 @@ if (process.env.CLIENT_ID && process.env.CLIENT_SECRET &&
         clientID: process.env.CLIENT_ID,
         clientSecret: process.env.CLIENT_SECRET,
         callbackURL:
-          "https://nodejs-authentication-system-l2pu.onrender.com/auth/google/callback",
+          "http://localhost:3000/auth/google/callback",
         scope: ["profile", "email"],
       },
       function (accessToken, refreshToken, profile, callback) {
