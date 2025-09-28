@@ -37,16 +37,16 @@ Mở trình duyệt tại:  `http://localhost:3000`
 ## Demo giao diện
 
 ### 1. Đăng nhập
-![Sign In](https://raw.githubusercontent.com/Tiuquoai/NodeJS-Authentication-Systemm/main/results/signin.png)
+![Sign In](./public/results/signin.png)
 
 ### 2. Đăng nhập với Google
-![Google Sign In](https://raw.githubusercontent.com/Tiuquoai/NodeJS-Authentication-Systemm/main/results/sign_gg.png)  
-![Google Sign In (Step 2)](https://raw.githubusercontent.com/Tiuquoai/NodeJS-Authentication-Systemm/main/results/sign_gg1.png)
+![Google Sign In](./public/results/sign_gg.png)  
+![Google Sign In (Step 2)](./public/results/sign_gg1.png)
 
 ### 3. Quên mật khẩu
-![Forgot Password](https://raw.githubusercontent.com/Tiuquoai/NodeJS-Authentication-Systemm/main/results/forgot_pw.png)
+![Forgot Password](./public/results/forgot_pw.png)
 
 ### 4. Đăng xuất
-![Logout](https://raw.githubusercontent.com/Tiuquoai/NodeJS-Authentication-Systemm/main/results/logout.png)
+![Logout](./public/results/logout.png)
 
 ---
